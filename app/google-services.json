@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505891170609",
+    "project_id": "chatapplication-9297c",
+    "storage_bucket": "chatapplication-9297c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505891170609:android:90e59403080b8d5a222810",
+        "android_client_info": {
+          "package_name": "com.hafize.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505891170609-rskh4h55m3mgqu1h9p71bmb4t339q40o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz_UIGV0wnfbL4lWX9IcVnGU4zls58f-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505891170609-rskh4h55m3mgqu1h9p71bmb4t339q40o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
